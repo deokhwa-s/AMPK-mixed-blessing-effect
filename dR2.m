@@ -16,7 +16,7 @@ function y = dR2(t, x, param, varargin)
 %                  (concentration of each component)
 %-----------------------------------------------------------------------
 
-    %Define each network componenet to the corresponding vector element
+    %Define each network component to the corresponding vector element
     IR            = x(1);
     pIR           = x(2);
     IRS           = x(3);
